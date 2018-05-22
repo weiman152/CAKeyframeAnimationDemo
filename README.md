@@ -6,3 +6,8 @@ swift语言，使用CAKeyframeAnimation实现动画
 环境：
 xcode9， swift4
 
+效果截图：
+
+<br>
+
+![Alt text](https://github.com/weiman152/CAKeyframeAnimationDemo/blob/master/ScreenShots/1111.gif)
