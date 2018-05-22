@@ -55,7 +55,7 @@ class SecondViewController: UIViewController {
         animation.repeatCount = MAXFLOAT
         animation.isRemovedOnCompletion = false
         animation.fillMode = kCAFillModeForwards
-        animation.duration = 2.0
+        animation.duration = 3.0
         animation.timingFunctions = [CAMediaTimingFunction(name: kCAMediaTimingFunctionEaseIn)]
         animation.delegate = self
         
@@ -85,7 +85,7 @@ class SecondViewController: UIViewController {
         animation.repeatCount = MAXFLOAT
         animation.isRemovedOnCompletion = false
         animation.fillMode = kCAFillModeForwards
-        animation.duration = 10.0
+        animation.duration = 6.0
         animation.timingFunctions = [CAMediaTimingFunction(name: kCAMediaTimingFunctionEaseIn)]
         animation.delegate = self
         
@@ -122,7 +122,7 @@ class SecondViewController: UIViewController {
         animation.repeatCount = MAXFLOAT
         animation.isRemovedOnCompletion = false
         animation.fillMode = kCAFillModeForwards
-        animation.duration = 10.0
+        animation.duration = 3.0
         animation.timingFunctions = [CAMediaTimingFunction(name: kCAMediaTimingFunctionEaseIn)]
         animation.delegate = self
         
