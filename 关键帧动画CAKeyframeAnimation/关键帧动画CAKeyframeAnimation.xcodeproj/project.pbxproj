@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		811F82F820B4256400431D61 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811F82F720B4256400431D61 /* ThirdViewController.swift */; };
 		81B49A4120B3BD3500D84A06 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B49A4020B3BD3500D84A06 /* AppDelegate.swift */; };
 		81B49A4320B3BD3500D84A06 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B49A4220B3BD3500D84A06 /* ViewController.swift */; };
 		81B49A4620B3BD3500D84A06 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81B49A4420B3BD3500D84A06 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		811F82F720B4256400431D61 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		81B49A3D20B3BD3500D84A06 /* 关键帧动画CAKeyframeAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "关键帧动画CAKeyframeAnimation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81B49A4020B3BD3500D84A06 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81B49A4220B3BD3500D84A06 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				81B49A4020B3BD3500D84A06 /* AppDelegate.swift */,
 				81B49A4220B3BD3500D84A06 /* ViewController.swift */,
 				81B49A5220B3C72100D84A06 /* SecondViewController.swift */,
+				811F82F720B4256400431D61 /* ThirdViewController.swift */,
 				81B49A4420B3BD3500D84A06 /* Main.storyboard */,
 				81B49A4720B3BD3600D84A06 /* Assets.xcassets */,
 				81B49A4920B3BD3600D84A06 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				81B49A5320B3C72100D84A06 /* SecondViewController.swift in Sources */,
 				81B49A4320B3BD3500D84A06 /* ViewController.swift in Sources */,
+				811F82F820B4256400431D61 /* ThirdViewController.swift in Sources */,
 				81B49A4120B3BD3500D84A06 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +290,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "关键帧动画CAKeyframeAnimation/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -303,6 +308,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "关键帧动画CAKeyframeAnimation/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -24,8 +24,11 @@ class ViewController: UIViewController {
         animationOne()
         animationTwo()
     }
-
-   
+    
+    @IBAction func back(_ sender: UIButton) {
+        dismiss(animated: true, completion: nil)
+    }
+    
     //一个数组，提供了一组关键帧的值， 当使用path的 时候 values的值自动被忽略。
     func animationOne() {
         /*
