@@ -11,3 +11,7 @@ xcode9， swift4
 <br>
 
 ![Alt text](https://github.com/weiman152/CAKeyframeAnimationDemo/blob/master/ScreenShots/1111.gif)
+<br><br>
+抖动效果：
+<br><br>
+![Alt text](https://github.com/weiman152/CAKeyframeAnimationDemo/blob/master/ScreenShots/%E6%8A%96%E5%8A%A8.gif)
